@@ -151,7 +151,7 @@ runApp(
           return(list(plot(fit1,1),plot(fit1,2)))
         }
       })
-      #Data Table
+      # Data Table
       output$Datatable <- DT::renderDataTable({
         if(is.null(input$file1$datapath)){return()}
         if(input$submit > 0){
