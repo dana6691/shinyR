@@ -1,4 +1,4 @@
 # shinyR
 ANOVA test using shiny R
 
-![Image of ShinyR](/Users/daheekim/Downloads/download.png)
+![Image of ShinyR](https://github.com/dana6691/shinyR/blob/master/shinyr.png)
