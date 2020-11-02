@@ -1,9 +1,3 @@
-###################################
-# dashe board style
-# two dataset parallel
-# the best one
-##################################
-
 library(shinydashboard)
 library(DT)
 
@@ -140,7 +134,7 @@ server <- function(input, output,session) {
     ) # end of datatables
   })
   
-  #Staitistics
+  #Statistics
   output$table2 <- renderPrint({
     tab() %>% 
       summarise_each(funs(if(is.numeric(.)) mean(., na.rm = TRUE) else first(.)))
