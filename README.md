@@ -3,7 +3,6 @@
 ![shinyr](https://user-images.githubusercontent.com/29461344/116460997-5223ba80-a82d-11eb-9b57-1819ae6c0679.png)
 ![4](https://user-images.githubusercontent.com/29461344/116461067-69fb3e80-a82d-11eb-94df-eecbdaf4ce0b.PNG)
 ![6](https://user-images.githubusercontent.com/29461344/116461058-6798e480-a82d-11eb-8a2d-7b534b6466d6.PNG)
-![datacenter2](https://user-images.githubusercontent.com/29461344/116461100-77182d80-a82d-11eb-9e12-4c63c517416b.png)
 ---
 
 ## 2. Datacenter: Build Datacenter using shiny R
